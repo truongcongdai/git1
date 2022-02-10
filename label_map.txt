@@ -1,0 +1,7 @@
+item { id:1,name:'tien'}
+item { id:2,name:'lui'}
+item { id:3,name:'trai'}
+item { id:4,name:'phai'}
+item { id:5,name:'len'}
+item { id:6,name:'xuong'}
+item { id:7,name:'truongcongdai'}
